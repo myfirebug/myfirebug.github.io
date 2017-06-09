@@ -1,0 +1,2 @@
+@charset "UTF-8";.nav ul{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.nav .nav-item{-webkit-box-flex:1;-webkit-flex:1;-moz-box-flex:1;-ms-flex:1;flex:1;text-align:center;-webkit-transition:all .25s ease 0s;-o-transition:all .25s ease 0s;-moz-transition:all .25s ease 0s;transition:all .25s ease 0s}.nav .nav-item:active{background:#375fb0}.nav .on a{color:#fff}.nav a{display:block;color:rgba(255,255,255,.7)}
+/*# sourceMappingURL=../maps/component/nav.min.css.map */
