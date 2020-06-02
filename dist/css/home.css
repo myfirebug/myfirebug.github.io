@@ -1,63 +1,67 @@
 html,
 body{
-	height: 100%;
 	position: relative;
+	background:#eee;
 }
 .wrapper{
 	max-width: 640px;
 	margin:0 auto;
-	position: absolute;
-	left:0;
-	top:50%;
-	right: 0;
-	transform:translateY(-70%);
 }
 .page{
 	width: 100%;
 }
 .header{
-	text-align: center;
+	display: flex;
+	align-items: center;
+	padding:20px 15px;
+	background:#fff;
+	text-align: left;
+	border-bottom:1px solid #ddd;
 }
 .head-dress{
-	width: 100px;
-	height: 100px;
-	margin:10px auto;
+	width: 60px;
+	height: 60px;
+	margin-right: 10px;
 	border-radius: 50%;
 	overflow:hidden;
 }
 .title{
-	padding:10px 0;
 	font-size: 22px;
 }
-.description{
-	padding-bottom:30px;
-	color:#999;
+.phone{
+	font-size:14px;
 }
-.nav ul{
-	display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-	text-align: center;
-	font-size:18px; 
+.nav{
+	margin-top: 10px;
+	background:#fff;
+	border-top:1px solid #ddd;
 }
-.nav ul li{
-	flex:1;
-}
-.nav ul li a{
+.nav a{
+	position: relative;
+	padding:0 15px;
 	display: block;
-	line-height: 40px;
-	transition:all .25s ease 0s;
-	color:#f4523b
+	height: 45px;
+	line-height: 45px;
+	font-size:15px;
+	color:#333;
+	border-bottom:1px solid #ddd;
+	transition: all .25s ease 0s;
 }
-.nav ul li a:hover,
-.nav ul li a:active{
-	color:#d64733
+.nav a:hover,
+.nav a:active{
+	color:#d64733;
 }
-.footer{
-	padding-top:10px;
-	margin:10px 10px 0 10px;
-	color:#999;
-	text-align: center;
-	border-top: 1px solid #ddd;
+.nav a:after{
+	content: '';
+	position: absolute;
+	top:50%;
+	right: 15px;
+	margin-top: -3px;
+	width: 5px;
+	height: 5px;
+	border:2px solid transparent;
+	border-left-color:#ddd;
+	border-bottom-color: #ddd;
+	transform: rotate(-135deg);
+	border-radius: 3px;
 }
