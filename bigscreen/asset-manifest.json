@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.9c3703c1.css",
-    "main.js": "./static/js/main.f458bdde.js",
+    "main.js": "./static/js/main.c5dd5d75.js",
     "login.css": "./static/css/login.5edb4618.css",
     "frame.css": "./static/css/frame.0c0c9736.css",
     "frame.js": "./static/js/frame.ae60cff6.js",
     "static/css/911.9e5b9773.css": "./static/css/911.9e5b9773.css",
-    "static/js/911.d24469ee.js": "./static/js/911.d24469ee.js",
+    "static/js/911.46e9096e.js": "./static/js/911.46e9096e.js",
     "static/js/808.8ca614a1.js": "./static/js/808.8ca614a1.js",
     "static/css/774.711f9cf2.css": "./static/css/774.711f9cf2.css",
     "static/js/774.ab7e1770.js": "./static/js/774.ab7e1770.js",
@@ -22,7 +22,7 @@
     "static/css/990.99b05db1.css": "./static/css/990.99b05db1.css",
     "static/js/990.69f9db3a.js": "./static/js/990.69f9db3a.js",
     "static/css/26.68c78a4a.css": "./static/css/26.68c78a4a.css",
-    "static/js/26.378e9cdb.js": "./static/js/26.378e9cdb.js",
+    "static/js/26.3c814cf5.js": "./static/js/26.3c814cf5.js",
     "static/css/431.f90b82c7.css": "./static/css/431.f90b82c7.css",
     "static/js/431.32ad0b52.js": "./static/js/431.32ad0b52.js",
     "static/css/359.79e20e74.css": "./static/css/359.79e20e74.css",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.9c3703c1.css",
-    "static/js/main.f458bdde.js"
+    "static/js/main.c5dd5d75.js"
   ]
 }
