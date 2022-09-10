@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.02bf1364.css",
-    "main.js": "./static/js/main.8a5e6998.js",
+    "main.js": "./static/js/main.4e42e8b7.js",
     "login.css": "./static/css/login.3b125d30.css",
     "frame.css": "./static/css/frame.05637a4c.css",
     "frame.js": "./static/js/frame.f6c41223.js",
     "static/css/943.6af75784.css": "./static/css/943.6af75784.css",
-    "static/js/943.b58844d9.js": "./static/js/943.b58844d9.js",
+    "static/js/943.de8932c4.js": "./static/js/943.de8932c4.js",
     "static/js/808.8ca614a1.js": "./static/js/808.8ca614a1.js",
     "static/css/774.bcf5a00c.css": "./static/css/774.bcf5a00c.css",
-    "static/js/774.46c2279e.js": "./static/js/774.46c2279e.js",
+    "static/js/774.72d9b93b.js": "./static/js/774.72d9b93b.js",
     "static/js/448.29f31132.js": "./static/js/448.29f31132.js",
     "static/js/730.21f357ee.js": "./static/js/730.21f357ee.js",
     "static/js/781.e3773fd2.js": "./static/js/781.e3773fd2.js",
@@ -39,7 +39,7 @@
     "static/css/536.3b125d30.css": "./static/css/536.3b125d30.css",
     "static/js/536.8307dfd7.js": "./static/js/536.8307dfd7.js",
     "static/css/372.55afcbeb.css": "./static/css/372.55afcbeb.css",
-    "static/js/372.221e4abc.js": "./static/js/372.221e4abc.js",
+    "static/js/372.5187efe8.js": "./static/js/372.5187efe8.js",
     "static/css/381.8b5fa6b1.css": "./static/css/381.8b5fa6b1.css",
     "static/js/381.3de59421.js": "./static/js/381.3de59421.js",
     "static/js/589.9e822d5d.js": "./static/js/589.9e822d5d.js",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.02bf1364.css",
-    "static/js/main.8a5e6998.js"
+    "static/js/main.4e42e8b7.js"
   ]
 }
