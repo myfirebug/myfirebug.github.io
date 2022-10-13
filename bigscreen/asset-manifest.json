@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.82027af1.css",
-    "main.js": "./static/js/main.d7a7cc43.js",
+    "main.js": "./static/js/main.7abdbb9c.js",
     "login.css": "./static/css/login.5938437c.css",
     "login.js": "./static/js/login.75725b79.js",
     "frame.css": "./static/css/frame.144a3a77.css",
     "frame.js": "./static/js/frame.81f6290f.js",
     "static/css/911.f7fa7a8a.css": "./static/css/911.f7fa7a8a.css",
-    "static/js/911.b36e5e57.js": "./static/js/911.b36e5e57.js",
+    "static/js/911.aaca7db2.js": "./static/js/911.aaca7db2.js",
     "static/js/808.4f276343.js": "./static/js/808.4f276343.js",
     "static/css/526.601e61c7.css": "./static/css/526.601e61c7.css",
     "static/js/526.70ce6785.js": "./static/js/526.70ce6785.js",
@@ -41,7 +41,7 @@
     "static/css/536.5938437c.css": "./static/css/536.5938437c.css",
     "static/js/536.bf0ef288.js": "./static/js/536.bf0ef288.js",
     "static/css/372.78b2d95b.css": "./static/css/372.78b2d95b.css",
-    "static/js/372.4f56ee96.js": "./static/js/372.4f56ee96.js",
+    "static/js/372.0bc9190d.js": "./static/js/372.0bc9190d.js",
     "static/css/381.fb67713f.css": "./static/css/381.fb67713f.css",
     "static/js/381.3de59421.js": "./static/js/381.3de59421.js",
     "static/js/657.3e9d4d04.js": "./static/js/657.3e9d4d04.js",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.82027af1.css",
-    "static/js/main.d7a7cc43.js"
+    "static/js/main.7abdbb9c.js"
   ]
 }
