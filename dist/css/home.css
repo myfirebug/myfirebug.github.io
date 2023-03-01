@@ -3,10 +3,7 @@ body{
 	position: relative;
 	background:#eee;
 }
-.wrapper{
-	max-width: 640px;
-	margin:0 auto;
-}
+.wrapper{}
 .page{
 	width: 100%;
 }
