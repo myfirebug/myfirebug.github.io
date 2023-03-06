@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.565441fc.css",
-    "main.js": "./static/js/main.8374d634.js",
+    "main.js": "./static/js/main.9ca9cb94.js",
     "login.css": "./static/css/login.c903591e.css",
-    "login.js": "./static/js/login.5c5ac437.js",
+    "login.js": "./static/js/login.adf17a1b.js",
     "frame.css": "./static/css/frame.d99be0aa.css",
-    "frame.js": "./static/js/frame.55cf2dd3.js",
-    "static/css/942.70a35a31.css": "./static/css/942.70a35a31.css",
-    "static/js/942.f4305dab.js": "./static/js/942.f4305dab.js",
+    "frame.js": "./static/js/frame.20ce9aee.js",
+    "static/css/725.2db08d40.css": "./static/css/725.2db08d40.css",
+    "static/js/725.a2f3b07d.js": "./static/js/725.a2f3b07d.js",
     "static/js/124.b0e8a456.js": "./static/js/124.b0e8a456.js",
     "static/js/262.58f317f5.js": "./static/js/262.58f317f5.js",
-    "static/css/601.0372ccb2.css": "./static/css/601.0372ccb2.css",
+    "static/css/601.34bfc2c3.css": "./static/css/601.34bfc2c3.css",
     "static/js/601.dda0a17c.js": "./static/js/601.dda0a17c.js",
     "static/js/664.34ef166e.js": "./static/js/664.34ef166e.js",
     "static/css/416.1ba1443f.css": "./static/css/416.1ba1443f.css",
@@ -27,13 +27,12 @@
     "static/css/105.45e3e969.css": "./static/css/105.45e3e969.css",
     "static/js/105.8be8125b.js": "./static/js/105.8be8125b.js",
     "static/css/87.c903591e.css": "./static/css/87.c903591e.css",
-    "static/js/87.04164b41.js": "./static/js/87.04164b41.js",
+    "static/js/87.96cc2204.js": "./static/js/87.96cc2204.js",
     "static/css/213.c903591e.css": "./static/css/213.c903591e.css",
     "static/js/213.da0e73a7.js": "./static/js/213.da0e73a7.js",
-    "static/js/190.5afcd283.js": "./static/js/190.5afcd283.js",
-    "static/js/398.be86ed9b.js": "./static/js/398.be86ed9b.js",
-    "static/js/569.072049b1.js": "./static/js/569.072049b1.js",
-    "static/js/808.6123b8ea.js": "./static/js/808.6123b8ea.js",
+    "static/js/190.f7b19867.js": "./static/js/190.f7b19867.js",
+    "static/js/398.93698262.js": "./static/js/398.93698262.js",
+    "static/js/259.f7e2464a.js": "./static/js/259.f7e2464a.js",
     "static/js/456.1ba9a046.js": "./static/js/456.1ba9a046.js",
     "static/js/595.5b1b87d3.js": "./static/js/595.5b1b87d3.js",
     "static/css/175.6fbebf3c.css": "./static/css/175.6fbebf3c.css",
@@ -46,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.565441fc.css",
-    "static/js/main.8374d634.js"
+    "static/js/main.9ca9cb94.js"
   ]
 }
