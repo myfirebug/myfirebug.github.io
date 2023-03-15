@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.8a8d9398.css",
-    "main.js": "./static/js/main.d49b2707.js",
+    "main.js": "./static/js/main.30852640.js",
     "login.css": "./static/css/login.48f01d73.css",
     "login.js": "./static/js/login.adf17a1b.js",
     "frame.css": "./static/css/frame.ffb64439.css",
@@ -23,7 +23,7 @@
     "static/js/893.e4d5a6c4.js": "./static/js/893.e4d5a6c4.js",
     "static/js/428.b9eceed2.js": "./static/js/428.b9eceed2.js",
     "static/css/737.c4407c4b.css": "./static/css/737.c4407c4b.css",
-    "static/js/737.cd80c315.js": "./static/js/737.cd80c315.js",
+    "static/js/737.fba3d4e3.js": "./static/js/737.fba3d4e3.js",
     "static/css/940.30bfc32c.css": "./static/css/940.30bfc32c.css",
     "static/js/940.0fceb114.js": "./static/js/940.0fceb114.js",
     "static/css/997.249e0bea.css": "./static/css/997.249e0bea.css",
@@ -60,6 +60,6 @@
   },
   "entrypoints": [
     "static/css/main.8a8d9398.css",
-    "static/js/main.d49b2707.js"
+    "static/js/main.30852640.js"
   ]
 }
