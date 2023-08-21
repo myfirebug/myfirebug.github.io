@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcli=self.webpackChunkcli||[]).push([[209],{7209:function(e,c,s){s.r(c);var t=s(7294);const o=(0,t.memo)((e=>t.createElement("footer",{className:"cms-footer"},t.createElement("div",{className:"cms-footer__content"},"CNode 社区为国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究。"))));c.default=o}}]);
+//# sourceMappingURL=209.4812ed2eaa.chunk.js.map

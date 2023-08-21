@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcli=self.webpackChunkcli||[]).push([[898],{4898:function(a,e,t){t.r(e);var s=t(7294);e.default=a=>{let{avatar:e,alt:t="图片",isRound:c=!1,size:l="default"}=a;return s.createElement("div",{className:`cms-avatar cms-avatar__${l} ${c?"is-round":""}`},s.createElement("img",{src:e,alt:t}))}}}]);
+//# sourceMappingURL=898.12c89243cb.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcli=self.webpackChunkcli||[]).push([[195],{4195:function(e,a,c){c.r(a);var t=c(7294);a.default=()=>t.createElement("div",{className:"about"},"about")}}]);
+//# sourceMappingURL=195.f0c55f3013.chunk.js.map
