@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcli=self.webpackChunkcli||[]).push([[32],{6032:function(e,c,n){n.r(c);var s=n(7294);c.default=function(){return s.createElement("h1",{className:"cms-elements"},"Elements")}}}]);
-//# sourceMappingURL=32.699720451e.chunk.js.map

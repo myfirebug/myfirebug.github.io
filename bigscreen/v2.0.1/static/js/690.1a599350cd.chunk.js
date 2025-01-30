@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcli=self.webpackChunkcli||[]).push([[690],{3690:function(e,s,c){c.r(s);var l=c(7294);s.default=e=>{let{title:s,children:c,style:a,className:t}=e;return l.createElement("div",{className:`cms-box ${t}`,style:a},l.createElement("div",{className:"cms-box__header"},s),l.createElement("div",{className:"cms-box__body"},c))}}}]);
-//# sourceMappingURL=690.1a599350cd.chunk.js.map
