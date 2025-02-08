@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklarge_screen_configuration=self.webpackChunklarge_screen_configuration||[]).push([[460],{90460:function(e,n,c){e.exports=c.p+"static/media/b117bc75f9.png"}}]);

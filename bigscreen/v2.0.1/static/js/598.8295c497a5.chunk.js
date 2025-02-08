@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklarge_screen_configuration=self.webpackChunklarge_screen_configuration||[]).push([[598],{49598:function(e,n,c){c.r(n);var r=c(67294),a=c(89250);const t=(0,r.memo)((()=>r.createElement(a.j3,null)));n.default=t}}]);
+//# sourceMappingURL=598.8295c497a5.chunk.js.map
