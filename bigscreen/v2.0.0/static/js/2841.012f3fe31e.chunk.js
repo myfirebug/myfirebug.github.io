@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcli=self.webpackChunkcli||[]).push([[2841],{2841:function(e,s,a){a.r(s);var c=a(7294);s.default=({children:e,className:s,title:a})=>c.createElement("div",{className:`cms-side-box ${s&&s}`},c.createElement("div",{className:"cms-side-box__header"},c.createElement("div",{className:"title"},a),c.createElement("div",{className:"controls"},c.createElement("span",{className:"close"}))),c.createElement("div",{className:"cms-side-box__body"},e))}}]);
-//# sourceMappingURL=2841.012f3fe31e.chunk.js.map
