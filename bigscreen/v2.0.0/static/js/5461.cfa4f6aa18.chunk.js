@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklarge_screen_configuration=self.webpackChunklarge_screen_configuration||[]).push([[5461],{15461:function(E,n,r){r.r(n),r.d(n,{ADD_ELEMENT:function(){return T},DELETE_ELEMENT:function(){return e},MODIFY_ELEMENT:function(){return D},MODIFY_WIDGET:function(){return t},SELECTED_TYPE:function(){return _},SELECT_ELEMENT:function(){return c},WIDGET:function(){return u}});const u="WIDGET",t="MODIFY_WIDGET",T="ADD_ELEMENT",e="DELETE_ELEMENT",c="SELECT_ELEMENT",D="MODIFY_ELEMENT",_="SELECTED_TYPE"}}]);
+//# sourceMappingURL=5461.cfa4f6aa18.chunk.js.map

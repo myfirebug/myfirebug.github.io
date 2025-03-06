@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklarge_screen_configuration=self.webpackChunklarge_screen_configuration||[]).push([[3690],{63690:function(e,a,s){s.r(a);var c=s(67294);a.default=e=>{let{title:a,children:s,style:t,className:l}=e;return c.createElement("div",{className:`cms-box ${l}`,style:t},c.createElement("div",{className:"cms-box__header"},a),c.createElement("div",{className:"cms-box__body"},s))}}}]);
+//# sourceMappingURL=3690.591c167c58.chunk.js.map
